@@ -1,0 +1,18 @@
+//
+// Document Colors: Цвета документа
+//
+$body-bg:               #fff !default;        // Background Color: Цвет фона документа
+$text-color:            $gray-dark !default;  // Text Color: Цвет текста
+
+//
+// Links Colors: Ссылки
+//
+$link-color:            #008ed6 !default;                   // Цвет ссылок
+$link-hover-color:      darken($link-color, 15%) !default;  // Цвет ссылки при наведении
+$link-hover-decoration: underline !default;                 // Подчёркивание ссылки при наведении
+
+
+//
+// Focus Colors: Фокусные цвета
+//
+$focus-color:           #f8d326; // Основной фокусный цвет
